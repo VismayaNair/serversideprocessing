@@ -146,7 +146,7 @@ urlpatterns = [
     path('',views.volumecalculation,name="volumeofacuboidroot")
 ~~~     
 ## OUTPUT:
-![github](100.png)
+![github](M.png)
 
 
 ## Result:
